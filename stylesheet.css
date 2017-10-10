@@ -1,0 +1,92 @@
+h1 {
+	border-bottom-style: solid;
+	border-bottom-color: thick #C0C0C0; 
+}
+
+p
+ {
+	color: black ;
+	font-family: 'Chewy', cursive;
+
+}
+
+img{
+	height: 250px;border: solid white 5px;
+	width:  200px;right:0px;
+	position: absolute;bottom: 0px;
+	transform: rotate(8.5deg);
+	top: 20px;left: 860px;	
+}
+
+body{
+	background-image:  url("img/bcc.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#Objective{
+	width: 500px;
+	font-size: 20px;
+	padding-bottom: 32px: 
+}
+
+
+.Ed, .Sk, .Work-Exp, .Hobbies, .Refer {
+	text-align: bottom ;
+	height: 100px;
+	width: 150px;
+	border-right: 3px double black;
+	font-size: 25px;
+	float: left;clear:left;
+	margin: 5px;
+	font-style: none;
+	color: black;
+	font-family: 'Metal', cursive;
+	padding: 15px 80px;
+}
+.info {
+	padding-left: 12px;float:left;
+	height: 120px;
+	width: 580px;margin: 3px 12.9px;
+	padding: 5px 5px;
+	font-size: 1.00em;	color: black;
+	font-size:1.15em;
+	font-family: font-family: 'Special Elite', cursive;
+
+
+}
+
+#term{
+	font-weight: bold;
+}
+
+#Ref2{
+		position: relative;
+		left: 300px;
+		top: 200 px;
+
+}
+
+#Edu, #Ed-info{
+	height: 110px;
+
+}
+
+#Ski, #Skills-info{
+	height: 90px;
+
+}
+#work, #Work-info{
+	height: 110px;
+
+}
+
+#Hobby, #Hobbies-info{
+ 	height: 90px;
+
+}
+
+#Ref, #Ref-info{
+	height: 90px;
+
+}
